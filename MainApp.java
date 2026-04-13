@@ -1,8 +1,0 @@
-package com.soni.pm;
-
-public class MainApp {
-    public static void main(String[] args) {
-        new LoginUI();
-    }
-}
-
